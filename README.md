@@ -20,6 +20,9 @@ NextPlan documents productivity frameworks designed for neurodivergent brains—
 | System | Description | Status |
 |--------|-------------|--------|
 | [Kaizen ADHD System](docs/kaizen-adhd-productivity-system.md) | Japanese continuous improvement adapted for ADHD brains | Complete |
+| [GTD Adapted for ADHD](docs/gtd-adapted-for-adhd.md) | Getting Things Done simplified for executive dysfunction | Complete |
+| [Pomodoro Adapted for ADHD](docs/pomodoro-adapted-for-adhd.md) | Flexible timing methods that work with hyperfocus | Complete |
+| [Time Blocking for ADHD](docs/time-blocking-adapted-for-adhd.md) | Energy-based scheduling with buffer time | Complete |
 
 ## Structure
 
@@ -28,7 +31,10 @@ nextplan/
 ├── README.md           # Project overview
 ├── AGENTS.md           # Instructions for AI coding assistants
 └── docs/
-    └── kaizen-adhd-productivity-system.md   # Kaizen methodology
+    ├── kaizen-adhd-productivity-system.md   # Kaizen methodology
+    ├── gtd-adapted-for-adhd.md              # GTD simplified
+    ├── pomodoro-adapted-for-adhd.md         # Flexible Pomodoro
+    └── time-blocking-adapted-for-adhd.md    # Energy-based scheduling
 ```
 
 ## Key Concepts
